@@ -1,0 +1,10 @@
+[user]
+    name = Owen Coutts
+    email = owen@owencoutts.com
+[color]
+    ui = true
+[core]
+	excludesfile = /Users/tallowen/.gitignore
+[alias]
+    st = status
+    co = checkout
