@@ -4,7 +4,8 @@
 [color]
     ui = true
 [core]
-	excludesfile = /Users/tallowen/.gitignore
+    excludesfile = ~/.global-gitignore
+    editor = vim
 [alias]
     st = status
     co = checkout
