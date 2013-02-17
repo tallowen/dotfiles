@@ -10,7 +10,7 @@ for f in * .*; do
     if [ "$f" = ".gitignore" ]; then
 	continue
     fi
-    if [ "$f" = "README" ]; then
+    if [ "$f" = "README.md" ]; then
 	continue
     fi
     ln -s ~/.dotfiles/$f ~/$f
