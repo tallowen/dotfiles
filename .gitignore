@@ -3,4 +3,5 @@
 .ssh/id_dsa.pub
 .ssh/id_rsa
 .ssh/id_rsa.pub
+.ssh/id_rsa-cert.pub
 .ssh/known_hosts
