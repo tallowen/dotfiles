@@ -49,3 +49,9 @@ export PATH=/usr/local/share/python:$PATH
 
 # Bin
 export PATH=$PATH:/Users/owenc/bin
+
+# NPM
+export PATH=$PATH:/usr/local/share/npm/bin
+
+# RubyGem
+export PATH=$PATH:/usr/local/opt/ruby/bin
