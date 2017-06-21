@@ -1,5 +1,9 @@
 cd ~/.dotfiles
 for f in * .*; do
+    if ["$f" = "."]; then
+    continue
+    if ["$f" = ".."]; then
+    continue
     if [ "$f" = ".git" ]; then
 	continue
     fi
